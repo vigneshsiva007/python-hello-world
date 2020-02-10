@@ -1,2 +1,0 @@
-# python-hello-world
-hello
